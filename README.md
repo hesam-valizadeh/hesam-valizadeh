@@ -1,8 +1,3 @@
-<style>
-    p{style="display: flex;
-    justify-content: space-between;
-    align-items: center;}
-</style>
 <h1 align="center">Hi 👋, I'm Hesam Valizadeh</h1>
 <h3 align="center">A passionate frontend developer from Iran</h3>
 
