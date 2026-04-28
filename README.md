@@ -12,7 +12,7 @@
 
 <h3 align="center">Languages and Tools:</h3>
 
-- Programming Language
+-Markup Language
 
 <table>
   <tr>
@@ -24,6 +24,13 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="48" height="48" />
         <br>CSS
     </td>
+      </tr>
+</table>
+
+- Programming Language
+
+<table>
+  <tr>
     <td align="center" width="96">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48" />
         <br>JavaScript
