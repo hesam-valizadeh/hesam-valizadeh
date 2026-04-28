@@ -39,14 +39,6 @@
 
 <table>
   <tr>
-        <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/less/less-original.svg" alt="Less" width="48" height="48" />
-      <br>Less
-    </td>
-            <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scss/scss-original.svg" alt="SCSS" width="48" height="48" />
-      <br>Less
-    </td>
     <td align="center" width="96">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="48" height="48" />
       <br>Bootstrap
