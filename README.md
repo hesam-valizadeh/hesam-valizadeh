@@ -51,10 +51,6 @@
       <br>Bootstrap
     </td>
     <td align="center" width="96">
-        <img src="https://github.com/hesam-valizadeh/site/blob/main/img/logo/less.png" alt="Bootstrap" width="48" height="48" />
-      <br>Bootstrap
-    </td>
-    <td align="center" width="96">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="TailwindCSS" width="48" height="48" />
         <br>TailwindCSS
     </td>
