@@ -27,20 +27,7 @@
       </tr>
 </table>
 
-- Programming Language
 
-<table>
-  <tr>
-    <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48" />
-        <br>JavaScript
-    </td>
-    <td align="center" width="96">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-        <br>Typescript
-    </td>
-  </tr>
-</table>
 
 - CSS Frameworks
 
@@ -53,6 +40,21 @@
     <td align="center" width="96">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="TailwindCSS" width="48" height="48" />
         <br>TailwindCSS
+    </td>
+  </tr>
+</table>
+
+- Programming Language
+
+<table>
+  <tr>
+    <td align="center" width="96">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48" />
+        <br>JavaScript
+    </td>
+    <td align="center" width="96">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+        <br>Typescript
     </td>
   </tr>
 </table>
