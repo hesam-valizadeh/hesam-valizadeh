@@ -16,11 +16,11 @@
 
 <table>
   <tr>
-    <td align="center" width="96">
+    <td align="center" width="100">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="48" height="48" />
       <br>HTML
     </td>
-    <td align="center" width="96">
+    <td align="center" width="100">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="48" height="48" />
         <br>CSS
     </td>
@@ -31,11 +31,11 @@
 
 <table>
   <tr>
-    <td align="center" width="96">
+    <td align="center" width="100">
         <img src="https://github.com/hesam-valizadeh/site/blob/main/img/logo/scss.png" alt="SCSS" width="48" height="48" />
         <br>SCSS
     </td>
-        <td align="center" width="96">
+        <td align="center" width="100">
         <img src="https://github.com/hesam-valizadeh/site/blob/main/img/logo/less.png" alt="Bootstrap" width="48" height="48" />
       <br>LESS
     </td>
@@ -46,11 +46,11 @@
 
 <table>
   <tr>
-    <td align="center" width="96">
+    <td align="center" width="100">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="48" height="48" />
       <br>Bootstrap
     </td>
-    <td align="center" width="96">
+    <td align="center" width="100">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="TailwindCSS" width="48" height="48" />
         <br>TailwindCSS
     </td>
@@ -61,11 +61,11 @@
 
 <table>
   <tr>
-    <td align="center" width="96">
+    <td align="center" width="100">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48" />
         <br>JavaScript
     </td>
-    <td align="center" width="96">
+    <td align="center" width="100">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
         <br>Typescript
     </td>
@@ -76,7 +76,7 @@
 
 <table>
   <tr>
-    <td align="center" width="96">
+    <td align="center" width="100">
  <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
       <br>Angular
     </td>
