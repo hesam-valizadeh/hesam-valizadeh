@@ -32,12 +32,12 @@
 <table>
   <tr>
     <td align="center" width="96">
-        <img src="https://github.com/hesam-valizadeh/site/blob/main/img/logo/less.png" alt="Less" width="48" height="48" />
-      <br>Lss
-    </td>
-    <td align="center" width="96">
         <img src="https://github.com/hesam-valizadeh/site/blob/main/img/logo/scss.png" alt="SCSS" width="48" height="48" />
         <br>SCSS
+    </td>
+        <td align="center" width="96">
+        <img src="https://github.com/hesam-valizadeh/site/blob/main/img/logo/less.png" alt="Bootstrap" width="48" height="48" />
+      <br>LESS
     </td>
   </tr>
 </table>
