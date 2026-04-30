@@ -82,14 +82,7 @@
     </td>
   </tr>
 </table>
-<p align="center">
-  <a href="https://github.com/MasterkinG32" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/hesam-valizadeh/hesam-valizadeh/master/github-metrics.svg" alt="MasterkinG32's" style='width: 55%' />
-  </a>
-  <a href="https://github.com/MasterkinG32" target="_blank">
-    <img align="center" src="https://wakatime.com/share/@hesam-valizadeh/ea7965c9-5e70-4fe1-8234-e8581afe87ec.svg" width="40%" alt="MasterkinG32's wakatime.com"  />
-  </a>
-<p>
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=hesam-valizadeh&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=hesam-valizadeh&theme=dark&hide_border=false)<br/>
